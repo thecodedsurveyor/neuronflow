@@ -28,7 +28,7 @@
 		"framer-motion": "^12.12.2",
 		"gsap": "^3.13.0",
 		"lucide-react": "^0.511.0",
-		"mammoth": "^1.9.1",
+		"mammoth": "^1.11.0",
 		"pdf-parse": "^1.1.1",
 		"pdfjs-dist": "^5.3.31",
 		"postcss": "^8.5.3",
